@@ -1,0 +1,33 @@
+#app {
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    color: #2c3e50;
+    height: 100%;
+  }
+  body,html{
+  
+    height: 100%;
+    width: 100%;
+  }
+  *{  margin: 0;
+    padding: 0;}
+  .el-submenu .el-menu{
+      background: #000c17;
+  }
+  .el-submenu__title:hover{
+      background-color: transparent!important;
+      color: #ffffff!important;
+  }
+  .el-tabs__nav-wrap{padding: 0 15px;}
+  .el-tabs__content{padding: 0 15px;}
+  .el-submenu__title{color: hsla(0, 0%, 100%, 0.65)!important;}
+  .clearfix::before, .clearfix::after{content: "";display: table; clear: both; } 
+  .fl{float: left;}
+  .fr{float: right;}
+  .el-card{margin: 15px 0;}
+  .el-menu{
+    background:#001529
+  }
+
+  

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0d7d7c"],{7915:function(n,t,c){"use strict";c.r(t);var e=function(){var n=this,t=n.$createElement,c=n._self._c||t;return c("div",{staticClass:"container"},[n._v(" 订单页 ")])},a=[],s={},l=s,u=c("9ca4"),i=Object(u["a"])(l,e,a,!1,null,null,null);t["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d0d7d7c.08aff8be.js.map
